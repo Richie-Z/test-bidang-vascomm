@@ -8,7 +8,7 @@
 
 ![Admin](./screenshoot/admin.png)
 
-## Instal
+## Installation 
 
 -   Execute hthttps://github.com/Richie-Z/test-bidang-vascomm.git on your terminal to download this project.
 -   Go to the project root directory and execute composer install
